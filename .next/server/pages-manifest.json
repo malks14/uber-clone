@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/components/Map": "pages/components/Map.js",
+  "/components/RideSelector": "pages/components/RideSelector.js",
+  "/confirm": "pages/confirm.js",
+  "/data/carList": "pages/data/carList.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/search": "pages/search.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
